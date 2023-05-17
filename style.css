@@ -1,0 +1,28 @@
+
+.promise {
+
+    border: .125rem solid black;
+    background-color: blue;
+    color: black;
+    font-size: 1.5625rem;
+    width: auto;
+    height: auto;
+
+}
+.homeless {
+
+    border: .125rem solid black;
+    background-color: bisque;
+    color: black;
+    font-size: 1.5625rem;
+    width: auto;
+    height: auto;
+}
+.fail {
+    border: .125rem solid black;
+    background-color: darkred;
+    color: black;
+    font-size: 1.5625rem;
+    width: auto;
+    height: auto;
+}
